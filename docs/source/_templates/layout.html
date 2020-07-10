@@ -1,0 +1,79 @@
+{% extends "!layout.html" %}
+  {% block footer %} {{ super() }}
+
+  <style>
+    /* Define constant colors */
+    :root {
+      --main-color: #8E0D18;
+    }
+
+    .wy-nav-content {
+      background: #f9f8f3;
+    }
+
+    /*---------------------------- HEADER ----------------------------*/
+
+    /* Sidebar header (and topbar for mobile) */
+    .wy-side-nav-search, .wy-nav-top {
+      background: var(--main-color);
+    }
+
+    .wy-menu-vertical header, .wy-menu-vertical p.caption {
+      color: var(--main-color);
+    }
+
+
+    /*---------------------------- SEARCH BAR ----------------------------*/
+
+    /* Search bar */
+    .wy-side-nav-search input[type=text] {
+      border-color:  var(--main-color);
+    }
+
+    /* Search bar */
+    .wy-side-nav-search>a:hover, .wy-side-nav-search .wy-dropdown>a:hover {
+      color: white;
+    }
+
+    /*---------------------------- SIDE BAR ----------------------------*/
+
+    /* **** BACKGROUND **** */
+
+    /* Sidebar background color */
+    .wy-nav-side {
+      background:  #3F3C31;
+    }
+
+
+    /* **** MENU ITEMS **** */
+
+    /* Side bar Menu items text color */
+    .wy-menu-vertical a {
+      color: #B8B8B8;
+    }
+
+    /* Side bar Menu items active or hover */
+    .wy-menu-vertical a:hover, .wy-menu-vertical a:active {
+      background-color:  #7C6773;
+      color : white;
+    }
+
+    /* Side bar Current Menu item background color */
+    .wy-menu-vertical li.current {
+      background: #F0E9EA;
+    }
+
+
+    /* Side bar Current Menu item hovered */
+    .wy-menu-vertical li.current a:hover {
+      background: #A49399;
+      color : white;
+    }
+
+    /* Links */
+    a, a:hover {
+      color: var(--main-color);
+    }
+
+  </style>
+{% endblock %}
