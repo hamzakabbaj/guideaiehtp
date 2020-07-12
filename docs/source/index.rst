@@ -88,3 +88,4 @@ Acronymes
    administration/carte_resident
    administration/impots
    administration/permis
+   administration/nationalite
