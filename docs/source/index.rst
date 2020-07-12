@@ -39,7 +39,7 @@ Acronymes
 - **CMU-C** : Couverture maladie universelle complémentaire
 - **DD** : Double diplôme
 - **ECTS** : European Credit Transfert System
-- **Ile** de France : Région en France métropolitaine incluant la ville de Paris et des départements qui l’entourent
+- **Ile de France** : Région en France métropolitaine incluant la ville de Paris et des départements qui l’entourent
 - **OFII** : Office français de l’immigration et de l’insertion
 - **RATP** : Régie autonome des transports parisiens
 - **RER** : Réseau express régional
@@ -56,6 +56,35 @@ Acronymes
 
    aiehtp/intro
    aiehtp/reseau
+   aiehtp/parrainage
+   aiehtp/garant_logement
+   aiehtp/rencontres
+   aiehtp/guide_formations
 
+.. toctree::
+   :caption: J'anticipe mon arrivée
 
+   anticipe_arrivee/budget
+   anticipe_arrivee/logement
+   anticipe_arrivee/documents
 
+.. toctree::
+   :caption: Arrivée en France
+
+   arrivee/banque
+   arrivee/visa
+   arrivee/apl
+   arrivee/urgence
+   arrivee/sante
+   arrivee/bourse
+   arrivee/transport
+
+.. toctree::
+   :caption: Démarches administratives
+
+   administration/renouvellement_ts
+   administration/aps
+   administration/changement_statut
+   administration/carte_resident
+   administration/impots
+   administration/permis

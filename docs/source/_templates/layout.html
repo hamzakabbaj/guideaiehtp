@@ -5,11 +5,15 @@
     /* Define constant colors */
     :root {
       --main-color: #8E0D18;
+
+      --background-color: #f9f8f3;
     }
 
-    .wy-nav-content {
-      background: #f9f8f3;
+
+    .wy-nav-content, .wy-nav-content-wrap {
+      background: var(--background-color);
     }
+
 
     /*---------------------------- HEADER ----------------------------*/
 
@@ -19,7 +23,7 @@
     }
 
     .wy-menu-vertical header, .wy-menu-vertical p.caption {
-      color: var(--main-color);
+      color: white;/*var(--main-color);*/
     }
 
 
@@ -44,7 +48,6 @@
       background:  #3F3C31;
     }
 
-
     /* **** MENU ITEMS **** */
 
     /* Side bar Menu items text color */
@@ -54,20 +57,20 @@
 
     /* Side bar Menu items active or hover */
     .wy-menu-vertical a:hover, .wy-menu-vertical a:active {
-      background-color:  #7C6773;
+      background-color:  #5c5846;
       color : white;
     }
 
     /* Side bar Current Menu item background color */
     .wy-menu-vertical li.current {
-      background: #F0E9EA;
+      background:  #f1efe2;
     }
 
 
     /* Side bar Current Menu item hovered */
     .wy-menu-vertical li.current a:hover {
-      background: #A49399;
-      color : white;
+      background: #e9e6d0;
+      /*color : white;*/
     }
 
     /* Links */
