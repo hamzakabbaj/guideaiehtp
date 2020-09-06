@@ -18,6 +18,7 @@ personne souhaitant intégrer le comité et créer davantage de valeur ajoutée.
 
 Pour te donner une brève présentation de l’association, voici quelques actions phares sur
 lesquelles l’AIEHTP-France travaille :
+
 - Accueil des EHTPistes venant du Maroc dans plusieurs points (aéroports, gares routières, etc);
 - Parrainage des nouveaux arrivants pour leur assurer une bonne insertion sociale et professionnelle;
 - Organsiation d'ateliers carrières et métiers (ex. Ateliers BIM, Consulting, LinkedIn, Démystifier le doctorat, etc);
