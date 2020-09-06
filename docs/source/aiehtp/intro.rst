@@ -3,11 +3,11 @@ Qui somme nous ?
 
 Les EHTPistes de France se sont toujours organisés pour rester en contact après l’EHTP,
 néanmoins, les cercles de rencontres étaient très réduits et n’allaient pas au-delà des camarades de
-promo. En effet, les coordonnées sur les listes de l’EHTP n’étaient pas à jour il n’y avait aucun
+promo. En effet, les coordonnées sur les listes de l’EHTP n’étaient pas à jour et il n’y avait aucun
 moyen de rentrer en contact avec les camarades des promotions antérieurs (n+4, n+10…etc.) afin
 de bénéficier de leurs retour d’expérience. Face à cette situation, certains camarades se sont
 mobilisés en 2014 pour créer : l’Association des Ingénieurs de l&#39;Ecole Hassania des Travaux
-Publics en France : « AIEHTP-France 1  ».
+Publics en France : « AIEHTP-France ».
 
 Cette nouvelle structure a pour ambition de mieux accueillir et conseiller les nouveaux arrivants
 afin de t’assurer une meilleure insertion dans un environnement tout nouveau pour toi...
@@ -18,3 +18,7 @@ personne souhaitant intégrer le comité et créer davantage de valeur ajoutée.
 
 Pour te donner une brève présentation de l’association, voici quelques actions phares sur
 lesquelles l’AIEHTP-France travaille :
+- Accueil des EHTPistes venant du Maroc dans plusieurs points (aéroports, gares routières, etc);
+- Parrainage des nouveaux arrivants pour leur assurer une bonne insertion sociale et professionnelle;
+- Organsiation d'ateliers carrières et métiers (ex. Ateliers BIM, Consulting, LinkedIn, Démystifier le doctorat, etc);
+- Organisation d'ateliers de formation personnelle (la prise de parole en public);
