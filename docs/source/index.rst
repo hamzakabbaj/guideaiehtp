@@ -45,7 +45,7 @@ Acronymes
 - **OFII** : Office Français de l’Immigration et de l’Insertion
 - **RATP** : Régie Autonome des Transports Parisiens
 - **RER** : Réseau Express Régional
-- **REX** : Retour D&#39;Expérience
+- **REX** : Retour D’Expérience
 - **SMIC** : Salaire Minimum Interprofessionnel de Croissance
 - **TER** : Transport Express Régional
 - **TGV** : Train à Grande Vitesse
