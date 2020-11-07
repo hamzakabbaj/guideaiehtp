@@ -24,6 +24,8 @@ Réalisation et contact
 Le guide « Pas à pas en France » a été réalisé par les EHTPistes de France représentés par
 l’association AIEHTP-France ©.
 
+.. image:: img/images.png
+
 Pour toutes suggestions et remarques merci de contacter l’association par courriel à l’adresse
 suivante : aiehtp.france@gmail.com
 
@@ -36,20 +38,20 @@ Acronymes
 - **CAF** : Caisse d’Allocations Familiales
 - **CPAM** : Caisse Primaire d’Assurance Maladie
 - **CROUS** : Centre Régional des Œuvres Universitaires et Scolaires
-- **CMU-C** : Couverture maladie universelle complémentaire
-- **DD** : Double diplôme
+- **CMU-C** : Couverture Maladie Universelle Complémentaire
+- **DD** : Double Diplôme
 - **ECTS** : European Credit Transfert System
 - **Ile de France** : Région en France métropolitaine incluant la ville de Paris et des départements qui l’entourent
-- **OFII** : Office français de l’immigration et de l’insertion
-- **RATP** : Régie autonome des transports parisiens
-- **RER** : Réseau express régional
-- **REX** : Retour d&#39;expérience
-- **SMIC** : Salaire minimum interprofessionnel de croissance
-- **TER** : Transport express régional
-- **TGV** : Train à grande vitesse
-- **TDS** : Titre de séjour
-- **UE** : Union européenne
-- **VLS-TS** : Visa long séjour valant un titre de séjour
+- **OFII** : Office Français de l’Immigration et de l’Insertion
+- **RATP** : Régie Autonome des Transports Parisiens
+- **RER** : Réseau Express Régional
+- **REX** : Retour D&#39;Expérience
+- **SMIC** : Salaire Minimum Interprofessionnel de Croissance
+- **TER** : Transport Express Régional
+- **TGV** : Train à Grande Vitesse
+- **TDS** : Titre De Séjour
+- **UE** : Union Européenne
+- **VLS-TS** : Visa Long Séjour Valant un Titre de Séjour
 
 .. toctree::
    :caption: L'AIEHTP-France
