@@ -2,7 +2,7 @@
 Changement de statut
 ====================
 
-1. Etudiant => Salarié 
+1. Etudiant à Salarié 
 =======================
 
 ATTENTION : les lois et les conditions de cette procédure changent rapidement !
@@ -21,10 +21,10 @@ Plus de détail sur la procédure de changement de statut Etudiant =&gt; salari�
 - https://www.facebook.com/groups/245499995488992/?fref=ts
 - https://www.service-public.fr/particuliers/vosdroits/F17319
 
-2.
+2. Etudiant à Salarié Qualifié ou Hautement Qualifié (Passeport Talent)
 ===
 
-3. Etudiant => Scientifique 
+3. Etudiant à Scientifique Chercheur
 ===============================
 
 Comparaison statut étudiant/ scientifique pour les doctorants
