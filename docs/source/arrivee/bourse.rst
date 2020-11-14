@@ -28,7 +28,7 @@ Voir le communiqué de la bourse sur cpge.ac.ma
 Bourses sur critères sociaux :
 ==============================
 
-1. Bourse Minhaty :
+1. Bourse Minhaty
 
 La bourse Minhaty est une bourse de l’enseignement supérieur à laquelle peut postuler
 chaque bachelier marocain et la sélection se fait selon le critère social (les revenus des parents). Si l’élève étudie en Bac+1, Bac+2 ou Bac+3, il pourra bénéficier soit d’une bourse totale (6334 dh par an divisé sur 3 tranches : 1900+1900+2534 approximativement) soit d’une bourse semi-complète (3167 dh par an divisé aussi sur 3 tranches : 950+950+1267 approximativement). 
@@ -48,7 +48,7 @@ lenseignement-supérieur
 Bourses des fondations :
 ========================
 
-1. Bourse Fondation OCP :
+1. Bourse Fondation OCP
 -------------------------
 La Fondation OCP, en partenariat avec le Ministère de l’Éducation Nationale, de la
 Formation Professionnelle, de l’Enseignement Supérieur et de la Recherche Scientifique, lance chaque année la « Bourse Fondation OCP ». Cette bourse est proposée aux meilleurs élèves marocains, scolarisés en CPGE et accédant en 1ère année des Grandes Écoles d’Ingénieurs et Grandes Écoles de Commerces françaises dont la liste est fixée par l’arrêté ministériel N°726.14 du 10 mars 2014. Sont éligibles à cette bourse les élèves de nationalité marocaine, éligibles à la bourse de mérite, ayant effectué leur scolarité dans une CPGE au Maroc ou en France et sous condition de ressources. La Bourse Fondation OCP se compose annuellement d’un montant mensuel de 6 000 MAD par mois sur 10 mois, de la prise en charge des frais d’inscription à hauteur de 30 000 MAD, d’un billet d’avion Aller-Retour Maroc-France et d’un montant de 6 000MAD pour les frais d’installation.
@@ -60,23 +60,23 @@ Les candidatures à la « Bourse Fondation OCP » se font via le portail e-CPGE 
 L'École des Ponts ParisTech entretient des liens étroits avec l&#39;industrie et certaines bourses peuvent être attribuées aux étudiants internationaux admis (Meridiam, LafargeHolcim, Saint-Gobain, Groupe OCP...). Les critères d&#39;éligibilité et les conditions de bourse sont propres à chaque programme.
 
 
-3. Bourse LafargeHolcim :
+3. Bourse LafargeHolcim
 -------------------------
 Cette bourse est donnée aux étudiants qui veulent continuer leurs études en 2ème année à
 l’Ecole des Ponts dans le cadre d’un double-diplôme. Les critères d’éligibilité sont d’accepter d’effectuer l’un des 2 stages soit un stage de 3 mois (de juin à août) entre la 1ère et la 2ème année à l’ENPC soit un stage de 6 mois sous forme d’un Master (de Mars à Août) dans un laboratoire de LafargeHolcim. La durée de la bourse est 24 mois et il prend en charge un billet d’aller-retour entre la ville natale et Paris en plus de 1181 euro/mois en dehors de la période des stages.
 
 
-Bourse Meridiam :
+Bourse Meridiam
 -----------------
-Bourse sur critères sociaux:
+Bourse sur critères sociaux
 ----------------------------
-Bourse de la Fondation des Ponts:
+Bourse de la Fondation des Ponts
 ---------------------------------
 
-Crédits Étudiants :
+Crédits Étudiants
 -------------------
 
-Crédit de la fondation Academia :
+Crédit de la fondation Academia
 ---------------------------------
 
 La Fondation accorde chaque année une vingtaine de prêts d&#39;honneur aux étudiants les plus méritants, sur la base d&#39;une sélection prenant en compte les résultats de l&#39;étudiant, l&#39;école dans laquelle il est admis, ainsi que le revenu des parents.
@@ -105,7 +105,7 @@ Pour plus d’information, veuillez consulter : http://fondation-academia.com
 Crédit
 ======
 
-BMCI :
+BMCI
 ------
 
 Sous réserve d’acceptation de votre dossier par la BMCI, pour un prêt d’un montant compris entre 25 000 et 50 000 Dhs par année d’études, sur présentation d’une attestation annuelle d’inscription dans une école privée d’enseignement supérieur au Maroc dans le cycle relatif à l’objet du prêt, d’une attestation annuelle délivrée par l’école indiquant le montant des frais de scolarité. Le Prêt Études Supérieures est souscrit par l’un de vos parents ou par votre tuteur légal, titulaire d’un compte à la BMCI.
