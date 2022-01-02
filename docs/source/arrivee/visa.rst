@@ -4,10 +4,9 @@ Je valide mon Visa
 
 Le visa « étudiant long séjour » doit être validé dans les trois mois suivant ton arrivée en France.
 
-Tu devras adresser un courrier à l’OFII en joignant les pièces suivantes :
+La bonne nouvelle est que la validation de ton VLS-TS se fait entièrement en ligne. Tu trouveras ce dont tu auras besoin et les étapes de validation en consultant ce lien.
 
-- Le formulaire de demande d’attestation OFII
-- La copie des pages du passeport où figurent les informations relatives à l’identité, le visa et le cachet d’entrée en France.
+https://www.campusfrance.org/fr/comment-valider-votre-visa-long-sejour-a-votre-arrivee-en-france
 
 Tu recevras alors une convocation pour obtenir la vignette de l’OFII sur ton passeport. La visite médicale à l’OFII est obligatoire, si tu ne l’as pas passé au Maroc, tu devras la passer le jour de ta convocation aux bureaux de l’OFII en France.
 
