@@ -2,11 +2,13 @@
 Je fais une demande d’APL
 =========================
 
-Un étudiant peut bénéficier d’une aide au logement (APL) sous certaines conditions. Pour toute constitution de dossier, consulte le site de la Caisse d’Allocations Familiales 8 (CAF) sur :
+Un étudiant peut bénéficier d’une aide au logement (APL) sous certaines conditions. Pour toute constitution de dossier, consulte le site de la Caisse d’Allocations Familiales (CAF) sur :
+
+https://www.caf.fr/
 
 La liste des pièces demandées par la CAF est la suivante :
 
-*Liste des pièces à ajouter*
+https://www.caf.fr/allocataires/droits-et-prestations/connaitre-vos-droits-selon-votre-situation/quelles-pieces-justificatives-adresser-lors-de-ma-demande
 
 Plusieurs résidences peuvent remplir à ta place la demande d’allocation au logement et l’envoyer à la CAF.
 
